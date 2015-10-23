@@ -14,7 +14,7 @@ The R script does the following steps:
 </ol>
 
 <h1>Data Source:</h1>
-Data for this project:<a href ="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"> </a>
+Data for this project:<a href ="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip </a>
 
 
 
