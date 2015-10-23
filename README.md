@@ -3,7 +3,7 @@
 This is the readme file. This file descripes how the run_analysis.R script works.
 
 <h1>Script</h1>
-The R script does the following steps:
+The R script (run_analysis.R) does the following steps:
 <ol>
 <li>Download the data for the project </li>
 <li>Merges the training and the test sets to create one data set</li>
