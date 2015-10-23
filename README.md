@@ -1,5 +1,6 @@
 #run_analysis.R
 -- Getting and Cleaning Data Course Project on Coursera
+
 This is the readme file. This file descripes how the run_analysis.R script works.
 
 #Script
