@@ -1,3 +1,12 @@
+<h1>Description of the variables ot the tidy data set</h1>
+There are 69 variables in the tidy_data.txt file. They correspond to the mean of each activity and each subject.
+
+The variables are called like 
+
+
+
+
+
 <h1>Metadata of the raw data set </h1>
 
 <h2>Data Set Information (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)</h2>
@@ -23,10 +32,6 @@ For each record in the dataset it is provided:
 - An identifier of the subject who carried out the experiment.
 
 
-<h1>Description of the variables ot the tidy data set</h1>
-There are 69 variables in the tidy_data.txt:
-
-They are called as follow:
 
 
 
