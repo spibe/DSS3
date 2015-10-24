@@ -5,7 +5,7 @@ This is the readme file. This file descripes how the run_analysis.R script works
 <h1>Script</h1>
 The R script (run_analysis.R) does the following steps:
 <ol>
-<li>Download the data for the project </li>
+<li>Read the data set training and the data set test. </li>
 <li>Merges the training and the test sets to create one data set</li>
 <li>Extracts only the measurements on the mean and standard deviation for each measurement</li>
 <li>Uses descriptive activity names to name the activities in the data set</li>
