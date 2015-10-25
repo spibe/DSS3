@@ -1,6 +1,12 @@
 <h1>readme</h1>
 -- Getting and Cleaning Data Course Project on Coursera
+<p>
 This is the readme file. This file descripes how the run_analysis.R script works.
+</p>
+<h2>Require packages </h2>
+<ul>
+<li>dplyr </li>
+</ul>
 
 <h1>Script</h1>
 The R script (run_analysis.R) does the following steps:
