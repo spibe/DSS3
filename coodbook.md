@@ -1,10 +1,8 @@
 <h1>Description of the variables ot the tidy data set</h1>
 There are 69 variables in the tidy_data.txt file. They correspond to the mean of each activity and each subject.
 
-The variables are called like 
-
-
-
+The variables are called:
+"activitycode" "tBodyAccmeanX" "tBodyAccmeanY" "tBodyAccmeanZ" "tBodyAccstdX" "tBodyAccstdY" "tBodyAccstdZ" "tGravityAccmeanX" "tGravityAccmeanY" "tGravityAccmeanZ" "tGravityAccstdX" "tGravityAccstdY" "tGravityAccstdZ" "tBodyAccJerkmeanX" "tBodyAccJerkmeanY" "tBodyAccJerkmeanZ" "tBodyAccJerkstdX" "tBodyAccJerkstdY" "tBodyAccJerkstdZ" "tBodyGyromeanX" "tBodyGyromeanY" "tBodyGyromeanZ" "tBodyGyrostdX" "tBodyGyrostdY" "tBodyGyrostdZ" "tBodyGyroJerkmeanX" "tBodyGyroJerkmeanY" "tBodyGyroJerkmeanZ" "tBodyGyroJerkstdX" "tBodyGyroJerkstdY" "tBodyGyroJerkstdZ" "tBodyAccMagmean" "tBodyAccMagstd" "tGravityAccMagmean" "tGravityAccMagstd" "tBodyAccJerkMagmean" "tBodyAccJerkMagstd" "tBodyGyroMagmean" "tBodyGyroMagstd" "tBodyGyroJerkMagmean" "tBodyGyroJerkMagstd" "fBodyAccmeanX" "fBodyAccmeanY" "fBodyAccmeanZ" "fBodyAccstdX" "fBodyAccstdY" "fBodyAccstdZ" "fBodyAccJerkmeanX" "fBodyAccJerkmeanY" "fBodyAccJerkmeanZ" "fBodyAccJerkstdX" "fBodyAccJerkstdY" "fBodyAccJerkstdZ" "fBodyGyromeanX" "fBodyGyromeanY" "fBodyGyromeanZ" "fBodyGyrostdX" "fBodyGyrostdY" "fBodyGyrostdZ" "fBodyAccMagmean" "fBodyAccMagstd" "fBodyBodyAccJerkMagmean" "fBodyBodyAccJerkMagstd" "fBodyBodyGyroMagmean" "fBodyBodyGyroMagstd" "fBodyBodyGyroJerkMagmean" "fBodyBodyGyroJerkMagstd" "subjectnumber" "activitytext"
 
 
 <h1>Metadata of the raw data set </h1>
